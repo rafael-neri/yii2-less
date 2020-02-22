@@ -1,0 +1,25 @@
+{
+    "name": "ext4yii2/yii2-less",
+    "description": "Yii2 less compiler to assets",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," less"],
+    "license": "Apache-2.0",
+    "authors":
+    [
+        {
+            "name": "Rafael Neri"
+        }
+    ],
+	"require":
+	{
+		"php": ">=5.4",
+		"wikimedia/less.php": "2.*"
+	},
+    "autoload":
+    {
+        "psr-4":
+        {
+            "ext4yii2\\assets\\": ""
+        }
+    }
+}
