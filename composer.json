@@ -1,6 +1,6 @@
 {
     "name": "ext4yii2/yii2-less",
-    "description": "Yii2 less compiler to assets",
+    "description": "Yii2 less compiler to assets (Latest Less Versions)",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"," less"],
     "license": "Apache-2.0",
