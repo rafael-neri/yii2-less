@@ -1,7 +1,8 @@
-yii2-less (Fork singrana/yii2-less)
+yii2-less (fork singrana/yii2-less)
 =========
 
 Yii2 less support (Latest Less Versions).
+
 Compatibility with singrana/yii2-less.
 
 Installation
@@ -37,7 +38,7 @@ Add or modify your Yii2 application config
 	[
 		'converter' =>
 		[
-			'class' =>	'ext4yii2\assets\Converter',
+			'class' => 'ext4yii2\assets\Converter',
 		],
 	...
 	],
