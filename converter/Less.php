@@ -106,7 +106,7 @@ class Less extends Parser
 		if(\file_exists($file)) {
 			$this->files[] = $file;
 
-			$parser = new Less_Parser();
+			$parser = new \Less_Parser();
 			$parser->parseFile($file, '');
 			$cache = $parser->getCss();
 		}
