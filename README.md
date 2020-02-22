@@ -3,8 +3,6 @@ yii2-less (fork singrana/yii2-less)
 
 Yii2 less support (Latest Less Versions).
 
-Compatibility with singrana/yii2-less.
-
 Installation
 ------------
 
